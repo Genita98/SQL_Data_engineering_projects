@@ -5,8 +5,7 @@
 
  */
 
-
-
+--Solution:
 SELECT  sd.skills,
         count(jpf.*) as demand_count
 FROM 
